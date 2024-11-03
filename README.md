@@ -1,7 +1,9 @@
 <h1>Hello World!👋</h1
 <h2>It's Me, Elvis</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisKemoi&theme=cobalt&hide_border=true" alt="ElvisKemoi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisKemoi&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="ElvisKemoi's GitHub Stats" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=ElvisKemoi&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="ElvisKemoi's GitHub Stats" />
 
 - 👀 I’m interested in Web Development and Web application programming.
 - 🌱 I’m skilled in Html, Css and Javasript.
