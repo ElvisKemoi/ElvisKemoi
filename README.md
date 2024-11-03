@@ -1,6 +1,6 @@
 <h1>Hello World!👋</h1
 <h2>It's Me, Elvis</h2>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisKemoi&show_icons=true&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisKemoi&theme=cobalt&hide_border=true" alt="ElvisKemoi's GitHub Stats" />
 
 
 - 👀 I’m interested in Web Development and Web application programming.
