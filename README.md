@@ -1,7 +1,8 @@
 <h1>Hello World!👋I'm Elvis </h1
 
 <h2>Hi! I'm a software engineer focused on building impactful web apps, from e-commerce platforms to community water vending solutions. I work with React, Node.js, and MongoDB and enjoy experimenting with new tech. I'm also creating a tech channel to share insights on development—stay tuned! </h2>
-![](https://komarev.com/ghpvc/?username=ElvisKemoi)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ElvisKemoi&label=Profile%20views&color=0e75b6&style=flat" alt="developer-austine" /> </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisKemoi&theme=cobalt&hide_border=true" alt="ElvisKemoi's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisKemoi&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="ElvisKemoi's GitHub Stats" />
 
